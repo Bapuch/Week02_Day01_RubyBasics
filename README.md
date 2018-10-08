@@ -6,7 +6,7 @@ Test First Ruby -- RSpec 3 Edition
 ### Greetings
 
 <p>Dear moussaillon,<p>
-<p>Attaché à se repo se trouve l'ensemble des exercices "<b>Learn Ruby Rspec<b>"<p>
+<p>Attaché à ce repo se trouve l'ensemble des exercices "<b>Learn Ruby Rspec<b>"<p>
     
 ### Binôme :
 Noms | Pseudo Slack
